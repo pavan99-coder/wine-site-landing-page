@@ -1,0 +1,120 @@
+body{
+    overflow-x: hidden;
+}
+
+
+body{padding-left: 16px;
+    padding-right: 16px;
+    background-color: black;
+    background-image: url("img.png");
+    background-repeat: no-repeat;
+    background-position-x: right;
+    background-size: 55%;
+   
+
+
+}
+#logo{
+    border-radius: 100%;
+}
+.icons{
+    margin-top: 13px;
+    margin-right: 32px;
+}
+.head{
+    font-weight: bold;
+    color: white;
+    padding-left: 20px;
+}
+.navbar{
+    margin-top: 25px;
+    
+}
+.w-heading{
+    font-size: 100px;
+    font-weight: bolder;
+    color: white;
+}
+.container{
+    margin-top: 20px;
+    margin-left: 23px;
+}
+#specing{
+    margin-top: -36px;
+}
+#p-width{
+    width: 550px;
+    margin-left: 29px;
+    color: rgb(136, 129, 129);
+}
+#btn{
+    font-weight: bold;
+    padding: 13px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-left: 8px;
+   background-color: #B18C3A;
+    border-radius:30px;
+    color: white;
+}.container3{
+    margin-top: 25px;
+   
+    margin-left: 30px;
+   
+}
+.container4{
+    margin-top: 27px;
+    display: flex;
+    margin-left: 30px;
+  
+   
+}
+.btn-slide{
+    margin-right:10px;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-weight: bold;
+    
+   
+    border-radius: 100%;
+}
+#btn-class1{
+    background-color: #3b2f15;
+    border: 2px solid rgb(3, 0, 0);
+}
+#btn-class1:hover{
+ 
+    background-color: #B18C3A;
+}
+#icons{
+    color:rgb(83, 81, 81)
+}
+#icon{
+    color:rgb(90, 90, 10)
+}
+#icon:hover{
+    color:white
+}
+#icons:hover{
+  color: white;
+}
+#arrow-down{
+    display: flex;
+    margin-left:40%;
+}
+#arrow{
+    color: rgb(87, 83, 83);
+    margin-top: 5px;
+    margin-right: 45px;
+}
+#card{
+    border: 1px solid rgb(32, 2, 2);
+    position: relative;
+    left: 220px;
+    bottom: 100px;
+    width: 294px;
+height: 148px;
+background-image:linear-gradient(to right,rgb(49, 32, 32),rgb(3, 0, 0));
+}
+ 
